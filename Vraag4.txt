@@ -1,0 +1,1 @@
+Bij REST is er geen voorafgesproken formaat om de protocols over uit te voeren. Het kan verschillen tussen json, csv, xml,... Maar men kan wel methodes uitvoeren die de context (datatypen, hiriarchien,..) terug geeft en zo onze applicatie aanpasssen aan de vereisten van de aangeroepen server. 
